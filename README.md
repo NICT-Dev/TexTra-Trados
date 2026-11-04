@@ -22,8 +22,8 @@ Tradosのアドインフォルダに配置してください。<br>
 （アドインフォルダは
 、Tradosインストール後、自動で作成されています。）<br>
 <br>
-アドインフォルダ、Trados2024の場合<br>
-%AppData%\Trados\Trados Studio\18\Plugins\Packages<br>
+アドインフォルダ、Trados2026の場合<br>
+%AppData%\Trados\Trados Studio\19\Plugins\Packages<br>
 ![](images/002.png)
 
 Tradosを起動した際、<br>
@@ -40,8 +40,8 @@ Please download the add‑in file “TexTraTrados.sdlplugin”<br>
 from the “Releases” section on this page and run it.<br>
 https://github.com/NICT-Dev/TexTra-Trados/releases<br>
 
-Add‑in folder for Trados 2024:<br>
-%AppData%\Trados\Trados Studio\18\Plugins\Packages<br>
+Add‑in folder for Trados 2026:<br>
+%AppData%\Trados\Trados Studio\19\Plugins\Packages<br>
 ![](images/002.png)
 
 When you start Trados, you will see the message:<br>
@@ -79,8 +79,8 @@ https://twitter.com/minhonMT
 
 ## 💻 実行環境 System Requirements
 
-RWS社、Trados2024
-RWS、Trados2024
+RWS社、Trados 2024(V1.5.1最終)、Trados 2026<br>
+RWS、Trados 2024(V1.5.1Final)、Trados 2026<br>
 
 ------
 みんなの自動翻訳 - TexTra Trados (古い内容が含まれています。)<br>
